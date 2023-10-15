@@ -1,2 +1,4 @@
 Hello
-this is my storyNew line
+this is my story
+New line
+New line 2
